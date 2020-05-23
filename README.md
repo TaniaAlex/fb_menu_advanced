@@ -1,9 +1,9 @@
-### Tutorial by Fireship: Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners
+### Advanced Dropdown Menu - React Hooks & CSS Animation
 
-https://www.youtube.com/watch?v=IF6k0uZuypA
+Facebook's new multi-level dropdown Menu
 
 ### Dependencies
 
-npm i react-transition-group
+react-transition-group
 
 A set of components for managing component states (including mounting and unmounting) over time, specifically designed with animation in mind
