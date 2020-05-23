@@ -1,6 +1,4 @@
-### Tutorial by Fireship: Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners
-
-https://www.youtube.com/watch?v=IF6k0uZuypA
+### Advanced Dropdown Menu - React Hooks & CSS Animation
 
 ### Dependencies
 
