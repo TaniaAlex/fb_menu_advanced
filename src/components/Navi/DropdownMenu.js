@@ -1,14 +1,14 @@
 import React, { useState, useRef, useEffect } from "react";
-import "./index.css";
-import { ReactComponent as CogIcon } from "./assets/icons/cog.svg";
-import { ReactComponent as ChevronIcon } from "./assets/icons/chevron.svg";
-import { ReactComponent as ArrowIcon } from "./assets/icons/arrow.svg";
-import { ReactComponent as Hammer } from "./assets/icons/hammer.svg";
-import { ReactComponent as Fox } from "./assets/icons/fox.svg";
-import { ReactComponent as Jslogo } from "./assets/icons/js.svg";
-import { ReactComponent as Csslogo } from "./assets/icons/css.svg";
-import { ReactComponent as Reactlogo } from "./assets/icons/react.svg";
-import { ReactComponent as Htmllogo } from "./assets/icons/html.svg";
+import "./Navi.css";
+import { ReactComponent as CogIcon } from "../../assets/icons/cog.svg";
+import { ReactComponent as ChevronIcon } from "../../assets/icons/chevron.svg";
+import { ReactComponent as ArrowIcon } from "../../assets/icons/arrow.svg";
+import { ReactComponent as Hammer } from "../../assets/icons/hammer.svg";
+import { ReactComponent as Fox } from "../../assets/icons/fox.svg";
+import { ReactComponent as Jslogo } from "../../assets/icons/js.svg";
+import { ReactComponent as Csslogo } from "../../assets/icons/css.svg";
+import { ReactComponent as Reactlogo } from "../../assets/icons/react.svg";
+import { ReactComponent as Htmllogo } from "../../assets/icons/html.svg";
 import { CSSTransition } from "react-transition-group";
 
 function DropdownMenu() {

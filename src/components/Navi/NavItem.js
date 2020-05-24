@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import "./index.css";
+import "./Navi.css";
 
 function NavItem(props) {
   const [open, setOpen] = useState(false);
