@@ -27,7 +27,7 @@ function App() {
             setThemeName(THEMES.PLUM);
           }}
         >
-          Pulm
+          PlumTheme
         </Buttons>
 
         <Buttons
@@ -35,14 +35,14 @@ function App() {
             setThemeName(THEMES.PEAR);
           }}
         >
-          Pear
+          PearTheme
         </Buttons>
         <Buttons
           onClick={() => {
             setThemeName(THEMES.BASIC);
           }}
         >
-          Basic
+          BasicTheme
         </Buttons>
         <NavItem icon={<PlusIcon />} />
         <NavItem icon={<BellIcon />} />
